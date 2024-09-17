@@ -4,6 +4,6 @@
 - entre na pasta do projeto core "django_forms"
 - execute o comando:
 
-´´´
+```
 python manage.py runserver
-´´´
+```
