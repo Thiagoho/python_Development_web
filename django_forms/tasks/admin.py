@@ -1,3 +1,6 @@
 from django.contrib import admin
 
-# Register your models here.
+from django_forms.tasks.models import Snippet
+
+admin.site.register(Snippet)
+
